@@ -12,10 +12,7 @@ Este proyecto es un sistema de punto de venta (POS) simple, diseñado para gesti
 - **Reporte de Ventas**: Proporciona un resumen de las ventas realizadas.
 
 ## **Estructura del Proyecto**
-
-<p align="center">
 El proyecto sigue una estructura de clases para organizar las funcionalidades:
-</p>
 
 - **`Producto`**: Representa un producto con sus detalles, como nombre, precio y cantidad en inventario.
 - **`Carrito`**: Maneja una lista de productos añadidos por el cliente.
