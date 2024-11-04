@@ -1,8 +1,8 @@
 # **Sistema de Punto de Venta (POS)**
 
-<p align="center">
+<p align="justify">
 Este proyecto es un sistema de punto de venta (POS) simple, diseñado para gestionar productos, realizar ventas y llevar un registro de cada transacción. La aplicación cuenta con funcionalidades para agregar productos a un carrito de compras, procesar una venta, y generar un resumen o ticket de la transacción.
-</p>
+
 
 ## **Características**
 
@@ -18,3 +18,4 @@ El proyecto sigue una estructura de clases para organizar las funcionalidades:
 - **`Carrito`**: Maneja una lista de productos añadidos por el cliente.
 - **`Venta`**: Representa una transacción de venta e incluye el carrito, el total y la fecha de la venta.
 - **`VentaControlador`**: Coordina la lógica de negocio, administra el carrito y procesa las ventas.
+</p>
